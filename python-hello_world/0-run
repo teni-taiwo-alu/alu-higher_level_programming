@@ -1,4 +1,2 @@
 #!/bin/bash
-# Runs the Python file stored in the PYFILE environment variable.
-
 python3 "$PYFILE"
